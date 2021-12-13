@@ -1,0 +1,13 @@
+pandas
+openpyxl
+numpy
+opencv-python
+tqdm
+tensorflow
+Pillow
+matplotlib
+tensorflow-datasets
+sacred
+scipy
+imutils
+cx_freeze
