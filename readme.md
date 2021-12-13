@@ -1,4 +1,4 @@
-#Todo:
+# Todo:
 - Loop training over all channels
 - Add augmentations to the training
 - Use transferlearning on pretrained models
