@@ -4,3 +4,4 @@ test_fotos
 test_fotos.zip
 venv
 .idea
+__pycache__
