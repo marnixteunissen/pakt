@@ -1,5 +1,5 @@
-data/*
-results/*
+data/*/
+results/*/
 test_fotos
 test_fotos.zip
 venv
